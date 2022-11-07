@@ -46,5 +46,5 @@ Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/
 
 ---
 
-Feito com ♥ by Issufi Badji :wave: [Acessa meu portfolio!](issufibadji.github.io/portfolio/)
+Feito com ♥ by Issufi Badji :wave: [Acessa meu portfolio!](https://issufibadji.github.io/portfolio/)
 
